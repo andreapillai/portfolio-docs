@@ -1,0 +1,52 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+Icon?
+
+# macOS resource forks
+__MACOSX/
+
+# System files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Other backups
+*.bak
+*.old
+*.orig
+*.save
+*.swp
+*.swo
+*.tmp
+*.temp
+*.~
+
+# macOS Trash
+.Trashes/
+
+# VS Code
+.vscode/
